@@ -3,7 +3,7 @@ package mrcnbsb.unitetests.mapper.mocks;
 import java.util.ArrayList;
 import java.util.List;
 
-import mrcnbsb.data.dto.PersonDTO;
+import mrcnbsb.data.dto.v1.PersonDTO;
 import mrcnbsb.model.Person;
 
 public class MockPerson {

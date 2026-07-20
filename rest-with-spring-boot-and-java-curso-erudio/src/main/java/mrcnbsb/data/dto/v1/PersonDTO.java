@@ -1,7 +1,5 @@
-package mrcnbsb.data.dto;
+package mrcnbsb.data.dto.v1;
 
-
-import jakarta.persistence.*;
 
 import java.io.Serializable;
 import java.util.Objects;
